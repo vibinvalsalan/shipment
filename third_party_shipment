@@ -1,0 +1,216 @@
+{
+                "Shipments": [
+                    {
+                        "Reference1": null,
+                        "Reference2": null,
+                        "Reference3": null,
+                        "Shipper": {
+                            "Reference1": "01298S000070108",
+                            "Reference2": null,
+                            "AccountNumber": "45796",
+                            "PartyAddress": {
+                                "Line1": "Dubai Silicon Oasis",
+                                "Line2": "",
+                                "Line3": "",
+                                "City": "Dubai",
+                                "StateOrProvinceCode": "",
+                                "PostCode": "",
+                                "CountryCode": "AE",
+                                "Longitude": 0,
+                                "Latitude": 0,
+                                "BuildingNumber": null,
+                                "BuildingName": null,
+                                "Floor": null,
+                                "Apartment": null,
+                                "POBox": null,
+                                "Description": null
+                            },
+                            "Contact": {
+                                "Department": "Shipper",
+                                "PersonName": "Raman",
+                                "Title": "Mr",
+                                "CompanyName": "Shipper",
+                                "PhoneNumber1": "+971556893191",
+                                "PhoneNumber1Ext": "",
+                                "PhoneNumber2": null,
+                                "PhoneNumber2Ext": "",
+                                "FaxNumber": null,
+                                "CellPhone": "+971556893191",
+                                "EmailAddress": "x@aramex.com",
+                                "Type": null
+                            }
+                        },
+                        "Consignee": {
+                            "Reference1": "868724258089362-1",
+                            "Reference2": "01298S000070108",
+                            "AccountNumber": "",
+                            "PartyAddress": {
+                                "Line1": "Any address",
+                                "Line2": "",
+                                "Line3": "",
+                                "City": "Dubai",
+                                "StateOrProvinceCode": "",
+                                "PostCode": "",
+                                "CountryCode": "AE",
+                                "Longitude": 0,
+                                "Latitude": 0,
+                                "BuildingNumber": null,
+                                "BuildingName": null,
+                                "Floor": null,
+                                "Apartment": null,
+                                "POBox": null,
+                                "Description": null
+                            },
+                            "Contact": {
+                                "Department": "Consignee Department",
+                                "PersonName": "Consignee",
+                                "Title": "Mr",
+                                "CompanyName": "Consignee",
+                                "PhoneNumber1": "+971556893191",
+                                "PhoneNumber1Ext": "",
+                                "PhoneNumber2": null,
+                                "PhoneNumber2Ext": "",
+                                "FaxNumber": null,
+                                "CellPhone": "+971556893191",
+                                "EmailAddress": "x@aramex.com",
+                                "Type": null
+                            }
+                        },
+                        "ThirdParty": {
+                            "Reference1": "01298S000070108",
+                            "Reference2": null,
+                            "AccountNumber": "45796",
+                            "PartyAddress": {
+                                "Line1": "Dubai Silicon Oasis",
+                                "Line2": "",
+                                "Line3": "",
+                                "City": "Dubai",
+                                "StateOrProvinceCode": "",
+                                "PostCode": "",
+                                "CountryCode": "AE",
+                                "Longitude": 0,
+                                "Latitude": 0,
+                                "BuildingNumber": null,
+                                "BuildingName": null,
+                                "Floor": null,
+                                "Apartment": null,
+                                "POBox": null,
+                                "Description": null
+                            },
+                            "Contact": {
+                                "Department": "Shipper",
+                                "PersonName": "Raman",
+                                "Title": "Mr",
+                                "CompanyName": "Shipper",
+                                "PhoneNumber1": "+971556893191",
+                                "PhoneNumber1Ext": "",
+                                "PhoneNumber2": null,
+                                "PhoneNumber2Ext": "",
+                                "FaxNumber": null,
+                                "CellPhone": "+971556893191",
+                                "EmailAddress": "x@aramex.com",
+                                "Type": null
+                            }
+                        },
+                        "ShippingDateTime": "/Date(1573134135000)/",
+                        "DueDate": "/Date(1573134135000)/",
+                        "Comments": null,
+                        "PickupLocation": "DUBAI",
+                        "OperationsInstructions": null,
+                        "AccountingInstrcutions": "",
+                        "Details": {
+                            "Dimensions": {
+                                "Length": 10,
+                                "Width": 5,
+                                "Height": 5,
+                                "Unit": "CM"
+                            },
+                            "ActualWeight": {
+                                "Unit": "KG",
+                                "Value": 0.5
+                            },
+                            "ChargeableWeight": {
+                                "Unit": "KG",
+                                "Value": 0.5
+                            },
+                            "DescriptionOfGoods": "APPLE IPHONE 11 PRO MAX 256GB MG GOLD PLATED FRAME",
+                            "GoodsOriginCountry": "AE",
+                            "NumberOfPieces": 1,
+                            "ProductGroup": "DOM",
+                            "ProductType": "ONP",
+                            "PaymentType": "3",
+                            "PaymentOptions": null,
+                            "CustomsValueAmount": {
+                                "CurrencyCode": "USD",
+                                "Value": 0
+                            },
+                            "CashOnDeliveryAmount": {
+                                "CurrencyCode": "USD",
+                                "Value": 0
+                            },
+                            "InsuranceAmount": {
+                                "CurrencyCode": "USD",
+                                "Value": 0
+                            },
+                            "CashAdditionalAmount": {
+                                "CurrencyCode": "",
+                                "Value": 0
+                            },
+                            "CashAdditionalAmountDescription": "",
+                            "CollectAmount": {
+                                "CurrencyCode": null,
+                                "Value": 0
+                            },
+                            "Services": "",
+                            "Items": [
+                                {
+                                    "PackageType": "Paint",
+                                    "Quantity": 1,
+                                    "Weight": {
+                                        "Unit": "KG",
+                                        "Value": 0.5
+                                    },
+                                    "Comments": "CUSTOMS",
+                                    "Reference": "CUSTOMS",
+                                    "PiecesDimensions": null,
+                                    "CommodityCode": null,
+                                    "GoodsDescription": null,
+                                    "CountryOfOrigin": null,
+                                    "CustomsValue": null,
+                                    "ContainerNumber": null
+                                }
+                            ],
+                            "DeliveryInstructions": null,
+                            "AdditionalProperties": [],
+                            "ContainsDangerousGoods": false
+                        },
+                        "Attachments": null,
+                        "ForeignHAWB": null,
+                        "TransportType ": 0,
+                        "PickupGUID": null,
+                        "Number": null,
+                        "ScheduledDelivery": null
+                    }
+                ],
+                "LabelInfo": {
+                    "ReportID": 9729,
+                    "ReportType": "url"
+                },
+                "ClientInfo": {
+                    "UserName": "dxbit@aramex.com",
+                    "Password": "Ar@m3x$h1pp1ng",
+                    "Version": "v1",
+                    "AccountNumber": "45796",
+                    "AccountPin": "116216",
+                    "AccountEntity": "DXB",
+                    "AccountCountryCode": "AE",
+                    "Source": 24
+                },
+                "Transaction": {
+                    "Reference1": "",
+                    "Reference2": "",
+                    "Reference3": "",
+                    "Reference4": "",
+                    "Reference5": ""
+                }
+            }
